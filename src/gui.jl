@@ -1,6 +1,6 @@
 #Imports
 import Pkg
-#Pkg.add("Gtk")
+Pkg.add("Gtk")
 using Gtk
 
 win = GtkWindow("EGinz", 400, 600)
