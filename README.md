@@ -1,6 +1,7 @@
 # EGinz 
 
 A graphical tool to help making e-cigarette liquid.
+![Alt text](img/eginz.png?raw=true "Title")
 
 ## Launch 
 
